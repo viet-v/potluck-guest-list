@@ -1,0 +1,12 @@
+{
+  "name": "js-lesson08-generate-list-and-notify-on-input-assign-randomly",
+  "version": "1.0.0",
+  "description": "From input, generate a list, count number of element of list. Alert when number reach 8. Assign dish to each guest.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": [
+    "generate list",
+    "alert",
+    "random assign"
+  ]
+}
